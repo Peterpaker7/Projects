@@ -10,3 +10,4 @@ joblib
 shap
 gunicorn
 python-dotenv
+twilio
