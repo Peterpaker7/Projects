@@ -1,8 +1,11 @@
 flask
 flask-cors
+flask-socketio
+eventlet
 numpy
 pandas
 scikit-learn
 joblib
+shap
 gunicorn
-flask-socketio
+python-dotenv
