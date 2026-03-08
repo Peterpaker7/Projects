@@ -5,6 +5,7 @@ eventlet
 numpy
 pandas
 scikit-learn
+xgboost
 joblib
 shap
 gunicorn
